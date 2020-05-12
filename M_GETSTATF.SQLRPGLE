@@ -34,14 +34,4 @@ dcl-proc getStatusFahrenheit export;
                                                                                                     
   return ouStatus;                                                                                  
                                                                                                     
- end-proc;                                                                                          
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                     
+ end-proc;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
