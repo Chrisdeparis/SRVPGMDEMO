@@ -1,11 +1,11 @@
 # SRVPGMDEMO
 
-## PGM de service utilisant module : avec plusieurs procédures pour la conversion de C° en F°
+## PGM de service utilisant des modules : avec plusieurs procédures pour la conversion de C° en F°
 
 #### Procédures
-- CELSTOFAHR a besoin de :
-- GETFAHRENHEIT
-- GETSTATUSFAHRENHEIT
+- CELSTOFAHR (M_CEL2FAHR.SQLRPGLE)
+- GETFAHRENHEIT (M_GETFAHR.SQLRPGLE)
+- GETSTATUSFAHRENHEIT (M_GETSTATF.SQLRPGLE)
 
 #### Paramètres
 - in_tempCel
